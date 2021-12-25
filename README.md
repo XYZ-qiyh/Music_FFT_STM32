@@ -1,5 +1,8 @@
 # Music_FFT_STM32
-基于FFT的音乐频谱分析仪（STM32开发平台）
+基于FFT的音乐频谱分析仪（STM32开发平台）【[视频](https://www.bilibili.com/video/BV1VU4y1u7E1/)】
+<p align="center">
+  <img src="doc/cover.jpg" alt="B站视频封面" width="600" />
+</p>
 
 **开发平台**：STM32F103（正点原子Mini板）
 

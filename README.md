@@ -26,5 +26,10 @@
 + STM32不完全手册
 + STM32F4开发指南
 
+**打赏**：
+
++ [请up喝蜜雪冰城](doc/Alipay.jpg)
+
+
 百度网盘链接：https://pan.baidu.com/s/1eEPSFy0NkkLHlT2Vm52eMg 
 提取码：p86q
